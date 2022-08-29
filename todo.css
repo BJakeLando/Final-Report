@@ -1,0 +1,14 @@
+li.item{
+    background-color: #dedede;
+    padding:3px;
+    font-family: Arial;
+    line-break: ;
+}
+body{
+    background-color: aqua;
+}
+
+.task-list{
+    background-color: #dedede;
+
+}
